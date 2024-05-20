@@ -15,6 +15,9 @@ class SecondFragment : Fragment() {
 
     private var _binding: FragmentSecondBinding? = null
 
+
+
+    var s =1
     // This property is only valid between onCreateView and
     // onDestroyView.
     private val binding get() = _binding!!
